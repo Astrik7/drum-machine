@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import Drum  from './drum';
-import audioclips from '/src/components/audioclips.jsx'
+import audioclips from './components/audioClips.jsx'
 
 
     
