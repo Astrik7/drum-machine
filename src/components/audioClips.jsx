@@ -1,4 +1,4 @@
-const audioclips = [
+const audio = [
   {
     keyTrigger: "Q",
     description: "Heater-1",
@@ -46,4 +46,4 @@ const audioclips = [
   },
 ];
 
-export default audioclips;
+export default audio;
